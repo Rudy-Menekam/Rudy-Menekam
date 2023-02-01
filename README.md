@@ -13,6 +13,6 @@
 
 # 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<Rudy-Menekam&hide=java,html,css&theme=radical)](https://github.com/Rudy-Menekam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudy-Menekam&hide=java,html,css&theme=radical)](https://github.com/Rudy-Menekam/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudy-Menekam&theme=radical)](https://github.com/Rudy-Menekam/github-readme-stats)
