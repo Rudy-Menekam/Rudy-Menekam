@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I am called Menekam Kenmogne Rudy
 
-<!--
-**Rudy-Menekam/rudy-menekam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently a student at Microverse
+- 🌱 I’m currently learning Fullstack developement and flutter
+- 👯 I’m looking to collaborate on Flutter and full-stack app development projects.
+- 🤔 I’m looking for help with Learning backend.
+- 📫 How to reach me: menekamrudy@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: aside of being a dev and designer, I enjoy playing basketball and drawing.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&lineCount=2&line1=flutter,flutter,3370fe;html,html,468a33;css,css,1ff4ad;trello,trello,025dc1;javascript,javascript,029ca7;&line2=figma,figma,767bc0;XD,XD,15c04d;)](https://github-readme-tech-stack.vercel.app/api/cards?align=center&lineCount=2&line1=flutter,flutter,3370fe;html,html,468a33;css,css,1ff4ad;trello,trello,025dc1;javascript,javascript,029ca7;&line2=figma,figma,767bc0;XD,XD,15c04d;)
