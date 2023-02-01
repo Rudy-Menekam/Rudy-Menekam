@@ -11,5 +11,8 @@
 # 💻 Tech Stack:
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&lineCount=2&line1=flutter,flutter,3370fe;html,html,468a33;css,css,1ff4ad;trello,trello,025dc1;javascript,javascript,029ca7;&line2=figma,figma,767bc0;XD,XD,15c04d;)](https://github-readme-tech-stack.vercel.app/api/cards?align=center&lineCount=2&line1=flutter,flutter,3370fe;html,html,468a33;css,css,1ff4ad;trello,trello,025dc1;javascript,javascript,029ca7;&line2=figma,figma,767bc0;XD,XD,15c04d;)
 
-
+# 📊 Most used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudy-Menekam&langs_count=8)](https://github.com/Rudy-Menekam/github-readme-stats)
+
+# 📊 GitHub Stats:
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rudy-Menekam)](https://github.com/Rudy-Menekam/github-readme-stats)
