@@ -1,9 +1,9 @@
 ### Hi there 👋, I am called Menekam Kenmogne Rudy
 
 - 🔭 I’m currently a student at Microverse
-- 🌱 I’m currently learning Fullstack developement and flutter
-- 👯 I’m looking to collaborate on UI/UX design, Flutter and full-stack app development projects.
-- 🤔 I’m looking for help with Learning backend.
+- 🌱 I’m currently learning Fullstack development and flutter
+- 👯 I’m looking to collaborate on UI/UX design, Flutter, and full-stack app development projects.
+- 🤔 I’m looking for help with the learning backend.
 - 📫 How to reach me: menekamrudy@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: aside of being a dev and designer, I enjoy playing basketball and drawing.
